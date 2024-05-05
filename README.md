@@ -6,8 +6,8 @@
 - [x] Scaffold basic ui with mock data
 - [x] tidy up build process
 - [x] Actually set up a db (vercel posgres)
-- [ ] Attach db to ui
-- [ ] Add authentication
+- [x] Attach db to ui
+- [x] Add authentication
 - [ ] Add image upload
 - [ ] Error management (w/ Sentry)
 - [ ] Routing.image page (parallel route)
